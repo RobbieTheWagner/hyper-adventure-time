@@ -1,0 +1,21 @@
+{
+  "name": "hyperterm-adventure-time",
+  "version": "1.0.0",
+  "description": "Hyperterm theme based on Adventure Time theme",
+  "main": "index.js",
+  "repository": "https://github.com/rwwagner90/hyperterm-adventure-time",
+  "author": {
+    "name": "Robert Wagner",
+    "email": "rwwagner90@gmail.com",
+    "url": "https://github.com/rwwagner90"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "adventure-time",
+    "adventure",
+    "time"
+  ]
+}
