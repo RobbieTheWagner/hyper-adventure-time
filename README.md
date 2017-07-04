@@ -1,12 +1,18 @@
-# hyperterm-adventure-time
-A [HyperTerm](https://hyperterm.org/) port of the Adventure Time theme from [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).
+# hyper-adventure-time
+A [Hyper](https://hyper.is/) port of the Adventure Time theme from [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).
 
-![HyperTerm Adventure Time](http://i.imgur.com/MRpZom7.png)
+![Hyper Adventure Time](http://i.imgur.com/MRpZom7.png)
 
 ## How to use
 
-Just add to your `plugins` in `~/.hyperterm.js`
+Just add to your `plugins` in `~/.hyper.js`
 
 ```js
-plugins: ['hyperterm-adventure-time']
+plugins: ['hyper-adventure-time']
+```
+
+If you use `hpm` you can also:
+
+```bash
+hpm install hyper-adventure-time
 ```
